@@ -1,1 +1,1 @@
-# Equillibrium-index-of-the-array
+#prefix-sum
